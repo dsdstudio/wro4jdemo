@@ -2,9 +2,12 @@
 <groups xmlns="http://www.isdc.ro/wro"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.isdc.ro/wro wro.xsd">
-    <group name="g1">
+    <group name="scripts">
         <js>classpath:static/js/angular.js</js>
         <js>classpath:static/js/module.js</js>
         <js>classpath:static/js/index-ctrl.js</js>
+    </group>
+    <group name="common-styles">
+        <css>classpath:static/scss/*.scss</css>
     </group>
 </groups>
