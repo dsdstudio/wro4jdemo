@@ -4,7 +4,6 @@ import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import ro.isdc.wro.http.WroFilter;
-import ro.isdc.wro.manager.factory.ConfigurableWroManagerFactory;
 
 import java.util.Arrays;
 

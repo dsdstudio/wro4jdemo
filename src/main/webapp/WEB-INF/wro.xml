@@ -8,6 +8,7 @@
         <js>classpath:static/js/index-ctrl.js</js>
     </group>
     <group name="common-styles">
-        <css>classpath:static/scss/*.scss</css>
+        <css>classpath:static/scss/test.css</css>
+        <css>classpath:static/scss/index.scss</css>
     </group>
 </groups>
